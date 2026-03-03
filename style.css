@@ -46,7 +46,7 @@ img {
 .topic-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 6em;
+    gap: 10em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
     /* top margin of 3em and center right/left */
